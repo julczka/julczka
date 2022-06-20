@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on booking system for a friend who runs classes for children build with quasar and firebase
-- 🌱 I’m currently learning how to be better at JS
+- 🔭 I’m currently working on front-end od Umbraco Cloud Portal
 - 👯 I’m looking to collaborate on any project that can improve my skills 😈
-- 🤔 I’m looking for help with how to be better at JS 😉
 - 💬 Ask me about anything :)
-- 📫 How to reach me: go to [my website](http://juliagru.com)
+- 📫 How to reach me: dm me on twitter! @julia_gru
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: beware of armadillos, they can give you leprosy 🤯
 
